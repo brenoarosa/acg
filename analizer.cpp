@@ -28,7 +28,7 @@ Amp. op.:  O<nome> <vo1> <vo2> <vi1> <vi2>
 #include <ctype.h>
 #include <math.h>
 #include <complex>
-#include "acg.h"
+#include "analizer.h"
 
 using namespace std;
 
